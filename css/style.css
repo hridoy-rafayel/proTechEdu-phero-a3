@@ -13,7 +13,7 @@ section {
 h2 {
   font-size: 45px;
   font-weight: 600;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 p {
@@ -46,4 +46,19 @@ p {
 
 .carousel-caption h5 {
   font-size: 65px;
+}
+
+.course-count {
+  font-size: 45px;
+  font-weight: 600;
+}
+
+.course-text {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.working-bg {
+  background-color: #F4FAFD;
+  padding: 0 60px;
 }
