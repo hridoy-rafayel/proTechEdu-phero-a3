@@ -73,8 +73,7 @@ p {
   padding: 0 15px;
 }
 
-
-/* ====== */
+/* Media Query */
 @media (max-width: 768px) {
 
   header,
