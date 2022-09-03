@@ -62,3 +62,13 @@ p {
   background-color: #F4FAFD;
   padding: 0 60px;
 }
+
+.social li {
+  list-style: none;
+  font-size: 30px;
+}
+
+.social li i {
+  color: #fff;
+  padding: 0 15px;
+}
